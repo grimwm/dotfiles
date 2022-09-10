@@ -9,3 +9,5 @@ cat .gitconfig >> ~/.gitconfig
 cat .gitignore >> ~/.gitignore
 
 popd >/dev/null
+
+cat .bashrc >> ~/.bashrc
